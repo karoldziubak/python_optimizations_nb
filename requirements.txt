@@ -1,2 +1,6 @@
 numpy
+pandas
+matplotlib
 jupyter
+line_profiler
+ipytest
