@@ -24,3 +24,5 @@ For Windows:
 pip install -r requirements.txt
 ```
 ### Run notebook
+- `examples/basics.ipynb` for basic Python optimizations with built-in functions showing performance gains with `%timeit`
+- `examples/line_profiler.ipynb` for line-by-line profiling using `line_profiler` with case study based on optimization with `numpy` and `pandas` vectorization
