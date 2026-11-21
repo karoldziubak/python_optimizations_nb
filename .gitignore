@@ -71,6 +71,11 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+# Private implementation plans (not published)
+docs/plans/
+.github/instructions/
+.github/prompts/
+
 # PyBuilder
 .pybuilder/
 target/
